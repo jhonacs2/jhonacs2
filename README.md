@@ -1,6 +1,4 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/jhonacs"><img src="https://api.daily.dev/devcards/e55aaba472bb4631ab917572452a8fdc.png?r=vkv" width="400" alt="Jhonatan Soto's Dev Card"/></a>
-
 <!--
 **jhonacs2/jhonacs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
